@@ -1,4 +1,4 @@
-package com.organization;
+package com.myCompany;
 
 /**
  * Created by oguzhan on 4.06.2016.
